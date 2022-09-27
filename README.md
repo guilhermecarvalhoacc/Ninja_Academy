@@ -7,10 +7,15 @@ Idealmente, implementaríamos as fases de acordo com as habilidades exigidas por
 Implementamos duas etapas do primeiro rank (Academy Student), que é o inicial para os ninjas. Essencialmente, teríamos: Academy Student, Genin, Chunin, Jonin e Kage.
 
 Seguem as explicações sobre cada um desses ranks de Ninjas:
+
 **1) Academy Student:** são o corpo estudantil da Academia, são ensinados sobre as técnicas básicas sobre o mundo ninja. Quando se formarem serão promovidos a Genin e se juntarão à força ninja.
+
 **2) Genin:** são o rank mais baixo dentre os ninjas "de verdade" e desafiam quaisquer outros ninjas.
+
 **3) Chunin:** são antigos Genin que foram promovidos pelas excelentes estratégias e habilidades de combate. São equivalentes a capitães militares.
+
 **4) Jonin:** ninjas muito experientes e habilidosos, são altamente respeitados.
+
 **5) Kage:** são os ninjas mais fortes no seu vilarejo escondido. Servem de pilar para todas as pessoas envolvidas naquele vilarejo.
 
 ## O storytelling
