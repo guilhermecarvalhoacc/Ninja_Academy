@@ -13,12 +13,16 @@ Seguem as explicações sobre cada um desses ranks de Ninjas:
 4) Jonin: ninjas muito experientes e habilidosos, são altamente respeitados.
 5) Kage: são os ninjas mais fortes no seu vilarejo escondido. Servem de pilar para todas as pessoas envolvidas naquele vilarejo.
 
-
 ## O storytelling
 Nosso personagem principal é o Ninja Frog. Ele é um aspirante a se tornar um Ninja muito experiente.
-No estágio implementado, nosso protagonista é 
+No estágio implementado, nosso protagonista está aprendendo o básico dos fundamentos Ninja.
+Isso implica em saber:
+- pular
+- desviar de obstáculos
+- identificar perigos
 
 ## How to play
+
 
 ## Aprendizados
 Ao longo desse projeto, iteramos e pivotamos diversas vezes o que tínhamos como "certeza" antes. 
@@ -45,4 +49,26 @@ Algumas ideias que tivemos seriam:
 - implementar blocos de apoio que desmoronam, para que ele tenha que pensar rápido
 - usar como ferramenta uma mola que dá um maior impulso para pular
 
+Poderíamos também criar os nossos próprios assets, que demanda bastante tempo.
+
+## Conclusão
+Foi muito interessante poder desenvolver um projeto e já ter um retorno gráfico do que estávamos fazendo, principalmente por ser tão dinâmico.
+Esperamos que para os próximos projetos possamos usar o que já aprendemos nesse e que possamos nos desenvolver mais ainda.
+Esperamos também que tenham gostado do nosso projeto! :)
+
 Por Andresa Bicudo e Guilherme Carvalho
+
+
+### Referências
+Start menu
+https://www.youtube.com/watch?v=zc8ac_qUXQY
+
+A estrutura dos níveis
+https://www.youtube.com/watch?v=Vt7VtkWb3R4&list=PLW-9djkTMdfVNJD9aEnoOzkrU8dUoD7j4&index=1
+
+Acionar a cena de vitória/próxima cena
+https://www.youtube.com/watch?v=Bc9lmHjqLZc 
+https://www.youtube.com/watch?v=KA6g0ULzLvY&list=PLW-9djkTMdfVNJD9aEnoOzkrU8dUoD7j4&index=13
+
+Mudar a fonte
+https://docs.unity3d.com/560/Documentation/Manual/class-Font.html#:~:text=To%20add%20a%20font%20to,files)%20and%20OpenType%20Fonts%20
