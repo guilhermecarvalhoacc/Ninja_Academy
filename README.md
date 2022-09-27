@@ -66,14 +66,14 @@ Por Andresa Bicudo e Guilherme Carvalho
 
 ## Referências
 Start menu
-https://www.youtube.com/watch?v=zc8ac_qUXQY
+- https://www.youtube.com/watch?v=zc8ac_qUXQY
 
 A estrutura dos níveis
-https://www.youtube.com/watch?v=Vt7VtkWb3R4&list=PLW-9djkTMdfVNJD9aEnoOzkrU8dUoD7j4&index=1
+- https://www.youtube.com/watch?v=Vt7VtkWb3R4&list=PLW-9djkTMdfVNJD9aEnoOzkrU8dUoD7j4&index=1
 
 Acionar a cena de vitória/próxima cena
-https://www.youtube.com/watch?v=Bc9lmHjqLZc 
-https://www.youtube.com/watch?v=KA6g0ULzLvY&list=PLW-9djkTMdfVNJD9aEnoOzkrU8dUoD7j4&index=13
+- https://www.youtube.com/watch?v=Bc9lmHjqLZc 
+- https://www.youtube.com/watch?v=KA6g0ULzLvY&list=PLW-9djkTMdfVNJD9aEnoOzkrU8dUoD7j4&index=13
 
 Mudar a fonte
-https://docs.unity3d.com/560/Documentation/Manual/class-Font.html#:~:text=To%20add%20a%20font%20to,files)%20and%20OpenType%20Fonts%20
+- https://docs.unity3d.com/560/Documentation/Manual/class-Font.html#:~:text=To%20add%20a%20font%20to,files)%20and%20OpenType%20Fonts%20
