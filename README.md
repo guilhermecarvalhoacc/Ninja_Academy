@@ -59,6 +59,7 @@ Poderíamos também criar os nossos próprios assets, que demanda bastante tempo
 ## Conclusão
 Foi muito interessante poder desenvolver um projeto e já ter um retorno gráfico do que estávamos fazendo, principalmente por ser tão dinâmico.
 Esperamos que para os próximos projetos possamos usar o que já aprendemos nesse e que possamos nos desenvolver mais ainda.
+Agradecemos toda a ajuda que sempre disponibilizam para nós!
 Esperamos também que tenham gostado do nosso projeto! :)
 
 Por Andresa Bicudo e Guilherme Carvalho
