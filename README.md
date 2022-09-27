@@ -23,7 +23,11 @@ Isso implica em saber:
 - identificar perigos
 
 ## How to play
+Aperte o espaço para pular e as setinhas (direita e esquerda) para se mover para os lados.
 
+Simples assim.
+
+Mas cuidado! Nem todos os terrenos são seguros...
 
 ## Aprendizados
 Ao longo desse projeto, iteramos e pivotamos diversas vezes o que tínhamos como "certeza" antes. 
@@ -60,7 +64,7 @@ Esperamos também que tenham gostado do nosso projeto! :)
 Por Andresa Bicudo e Guilherme Carvalho
 
 
-### Referências
+## Referências
 Start menu
 https://www.youtube.com/watch?v=zc8ac_qUXQY
 
