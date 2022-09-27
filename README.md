@@ -16,6 +16,7 @@ Seguem as explicações sobre cada um desses ranks de Ninjas:
 ## O storytelling
 Nosso personagem principal é o Ninja Frog. Ele é um aspirante a se tornar um Ninja muito experiente.
 No estágio implementado, nosso protagonista está aprendendo o básico dos fundamentos Ninja.
+
 Isso implica em saber:
 - pular
 - desviar de obstáculos
